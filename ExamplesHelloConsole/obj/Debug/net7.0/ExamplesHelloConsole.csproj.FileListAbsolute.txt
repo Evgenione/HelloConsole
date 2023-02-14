@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\obj\Debug\net7.0\ExamplesHelloConsole.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\obj\Debug\net7.0\ExamplesHelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\obj\Debug\net7.0\ExamplesHelloConsole.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\obj\Debug\net7.0\ExamplesHelloConsole.AssemblyInfo.cs
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\obj\Debug\net7.0\ExamplesHelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\bin\Debug\net7.0\ExamplesHelloConsole.exe
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\bin\Debug\net7.0\ExamplesHelloConsole.deps.json
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\bin\Debug\net7.0\ExamplesHelloConsole.runtimeconfig.json
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\bin\Debug\net7.0\ExamplesHelloConsole.dll
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\bin\Debug\net7.0\ExamplesHelloConsole.pdb
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\obj\Debug\net7.0\ExamplesHelloConsole.dll
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\obj\Debug\net7.0\refint\ExamplesHelloConsole.dll
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\obj\Debug\net7.0\ExamplesHelloConsole.pdb
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\obj\Debug\net7.0\ExamplesHelloConsole.genruntimeconfig.cache
+C:\Users\HP\Desktop\HelloConsole\ExamplesHelloConsole\obj\Debug\net7.0\ref\ExamplesHelloConsole.dll
